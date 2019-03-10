@@ -1,5 +1,5 @@
 syntax on
-colorscheme peachpuff
+colorscheme default
 set mouse=a
 set number
 set tabstop=4
